@@ -30,23 +30,20 @@
 
 <p align="center">
     <a href="https://github.com/YoelGraumann/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yoel Graumann's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YoelGraumann&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/YoelGraumann/github-readme-stats"><img alt="Yoel Graumann's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YoelGraumann&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/YoelGraumann/github-readme-stats"><img alt="Yoel Graumann's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoelGraumann&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-<br/>
-<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YoelGraumann&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D) 
+![github stats](https://github-readme-stats.vercel.app/api?username=YoelGraumann)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoelGraumann)
+    
+Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-<a href="https://github.com/YoelGraumann/github-readme-activity-graph"><img alt="Yoel Graumann's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YoelGraumann&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+![activity graph](https://activity-graph.herokuapp.com/graph?username=YoelGraumann&theme=react-dark)
 
 <br/>
 <br/>
