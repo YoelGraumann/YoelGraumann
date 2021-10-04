@@ -54,7 +54,8 @@ Note: Top languages is only a metric of the languages my public code consists of
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=YoelGraumann">
-</a>
-<a href="https://github.com/YoelGraumann?tab=followers"><img src="https://img.shields.io/github/followers/YoelGraumann?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+![](https://komarev.com/ghpvc/?username=YoelGraumann&style=flat-square)
+
+![GitHub followers](https://img.shields.io/github/followers/YoelGraumann?style=flat-square)
