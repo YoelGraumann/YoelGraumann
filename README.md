@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **TensorFlow**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **?**
 
 - 👨‍💻 My Selected Data Science Projects are available at **[My Portfolio](https://yoelgraumann.github.io/Yoel_portfolio/)**
 
