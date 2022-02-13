@@ -6,11 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **My Degree**
+- 🔭 I’m currently working on ** **
 
-- 🌱 I’m currently learning **TensorFlow**
+- 🌱 I’m currently learning **PyTorch**
 
-- 👯 I’m looking to collaborate on **?**
+- 👯 I’m looking to collaborate on ** **
 
 - 👨‍💻 My Selected Data Science Projects are available at **[My Portfolio](https://yoelgraumann.github.io/Yoel_portfolio/)**
 
