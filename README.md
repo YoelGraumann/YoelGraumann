@@ -3,6 +3,8 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">.</h3>
 
+Hello, Welcome to my Github!
+
 * Classification-of-epileptic-EEG-recordings-using-signal-transforms-and-convolutional-neural-networks - This project reimplements and extends the deep learning pipeline from "Classification of epileptic EEG recordings using signal transforms and convolutional neural networks" by San-Segundo et al., originally designed for EEG seizure detection. The core idea is to test the transferability of biomedical signal processing techniques to a completely different domain: music genre classification.
 
 
