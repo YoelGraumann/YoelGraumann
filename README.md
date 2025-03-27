@@ -5,6 +5,9 @@
 
 Hello, Welcome to my Github!
 
+On this page you can see different interesting Data Science Projects I worked on. For every project there is a pdf file which contains a summary with explanations, and jupyter notebooks with the code. 
+
+
 * Classification-of-epileptic-EEG-recordings-using-signal-transforms-and-convolutional-neural-networks - This project reimplements and extends the deep learning pipeline from "Classification of epileptic EEG recordings using signal transforms and convolutional neural networks" by San-Segundo et al., originally designed for EEG seizure detection. The core idea is to test the transferability of biomedical signal processing techniques to a completely different domain: music genre classification.
 
 
